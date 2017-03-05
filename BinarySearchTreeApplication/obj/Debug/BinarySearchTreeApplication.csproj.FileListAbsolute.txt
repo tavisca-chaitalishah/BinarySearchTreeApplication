@@ -1,0 +1,12 @@
+D:\Training\BinarySearchTreeApplication\BinarySearchTreeApplication\bin\Debug\BinarySearchTreeApplication.exe.config
+D:\Training\BinarySearchTreeApplication\BinarySearchTreeApplication\bin\Debug\BinarySearchTreeApplication.exe
+D:\Training\BinarySearchTreeApplication\BinarySearchTreeApplication\bin\Debug\BinarySearchTreeApplication.pdb
+D:\Training\BinarySearchTreeApplication\BinarySearchTreeApplication\obj\Debug\BinarySearchTreeApplication.csprojResolveAssemblyReference.cache
+D:\Training\BinarySearchTreeApplication\BinarySearchTreeApplication\obj\Debug\BinarySearchTreeApplication.exe
+D:\Training\BinarySearchTreeApplication\BinarySearchTreeApplication\obj\Debug\BinarySearchTreeApplication.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\BinarySearchTreeApplication\BinarySearchTreeApplication\bin\Debug\BinarySearchTreeApplication.exe.config
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\BinarySearchTreeApplication\BinarySearchTreeApplication\obj\Debug\BinarySearchTreeApplication.exe
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\BinarySearchTreeApplication\BinarySearchTreeApplication\obj\Debug\BinarySearchTreeApplication.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\BinarySearchTreeApplication\BinarySearchTreeApplication\bin\Debug\BinarySearchTreeApplication.exe
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\BinarySearchTreeApplication\BinarySearchTreeApplication\bin\Debug\BinarySearchTreeApplication.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\BinarySearchTreeApplication\BinarySearchTreeApplication\obj\Debug\BinarySearchTreeApplication.csprojResolveAssemblyReference.cache
